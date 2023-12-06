@@ -1,7 +1,7 @@
 {
-  "collection": "https://digitalcollections.lib.washington.edu/iiif/2/korean/manifest.json",
+  "collection": "https://gist.githubusercontent.com/Ennego/9a94c1898abd2b861fc60754e5ccee52/raw/10e83a73029c14ad4ff09a2be856a3791f524f27/Getty-mss-test-collection.json",
   "featured": [
-    "https://cdm16786.contentdm.oclc.org/iiif/korean:138/manifest.json"
+    "https://media.getty.edu/iiif/manifest/17a5a25f-beac-4281-bd73-76a45b88a56b"
   ],
-  "metadata": ["Author", "Place of Publication"]
+  "metadata": ["Artist/Maker", "Dimensions"]
 }
